@@ -5,7 +5,11 @@ Trained models based on https://github.com/egorsmkv/flowtron
 ## Install
 
 ```
-pip install ...
+git clone https://github.com/egorsmkv/flowtron
+
+cd flowtron
+
+# Next, read NOTES.txt
 ```
 
 ## Usage
