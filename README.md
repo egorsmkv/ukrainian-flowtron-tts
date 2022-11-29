@@ -14,7 +14,7 @@ cd flowtron
 
 ## Usage
 
-1) Download checkpoints
+1) Download a checkpoint
 
 Look here: https://github.com/egorsmkv/ukrainian-flowtron-tts/releases
 
