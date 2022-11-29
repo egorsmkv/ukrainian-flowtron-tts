@@ -2,6 +2,20 @@
 
 Trained models based on https://github.com/egorsmkv/flowtron
 
+## Model metrics
+
+### Attention
+
+<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/attention_weights_0.jpg"><img src="./screenshots/attention_weights_0.jpg" width="200"></a>
+
+<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/attention_weights_1.jpg"><img src="./screenshots/attention_weights_1.jpg" width="200"></a>
+
+### Training & Validation
+
+<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/training.jpg"><img src="./screenshots/training.jpg" width="200"></a>
+
+<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/validation.jpg"><img src="./screenshots/validation.jpg" width="200"></a>
+
 ## Install
 
 ```
