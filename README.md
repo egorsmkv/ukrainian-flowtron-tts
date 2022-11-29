@@ -14,8 +14,14 @@ cd flowtron
 
 ## Usage
 
+1) Download checkpoints
+
+Look here: https://github.com/egorsmkv/ukrainian-flowtron-tts/releases
+
+2) Do inference
+
 ```
-python3 inference.py --eng 0 --sigma 0.5 -c config.json -f model_60000 -w waveglow_256channels_ljs_v3.pt -t "Вітаю вас, мене звати Лада" -i 0
+python3 inference.py --eng 0 --sigma 0.5 -c config.json -f model_60000.pt -w waveglow_256channels_ljs_v3.pt -t "Вітаю вас, мене звати Лада" -i 0
 ```
 
 ## Look more
