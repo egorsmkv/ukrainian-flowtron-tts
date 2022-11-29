@@ -12,6 +12,10 @@ cd flowtron
 # Next, read NOTES.txt
 ```
 
+## Demo
+
+Download here: https://github.com/egorsmkv/ukrainian-flowtron-tts/releases/download/v0.1-alpha/demo_kotiki.wav
+
 ## Usage
 
 1) Download a checkpoint
