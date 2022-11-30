@@ -54,7 +54,7 @@ python3 inference.py --eng 0 --sigma 0.5 -c config.json -f model_101000.pt -w wa
 
 <a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/graphemes/attention_weights_0.jpg"><img src="./screenshots/graphemes/attention_weights_0.jpg" width="200"></a>
 
-<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/graphemes/attention_weights_1.jpg"><img src="./screenshots/graphemes/attention_weights_1.jpg" width="200"></a>
+<a href="https://github.com/egorsmkv/ukrainian-flowtron-tts/blob/main/screenshots/graphemes/attention_weights_1.png"><img src="./screenshots/graphemes/attention_weights_1.png" width="200"></a>
 
 ### Training & Validation
 
