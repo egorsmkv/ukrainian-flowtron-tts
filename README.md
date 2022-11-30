@@ -12,6 +12,11 @@ cd flowtron
 # Next, read NOTES.txt
 ```
 
+Note:
+
+- https://github.com/egorsmkv/flowtron is a version with phonemes
+- https://github.com/egorsmkv/flowtron-uk-graphemes is a version with graphemes
+
 ## Demo
 
 Download here: https://github.com/egorsmkv/ukrainian-flowtron-tts/releases/download/v0.1-alpha/demo_kotiki.wav
